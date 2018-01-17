@@ -37,7 +37,7 @@ start.
 `sudo docker exec -it b3-run bash`
 
 ### Access to QT
-`vncviewr localhost:5999`
+`vncviewer localhost:5999`
 
 ## Build
 
